@@ -70,7 +70,7 @@ pip install torch torchvision transformers pillow
 4. You should now see:
 
 * **"Custom Caption Generator"** under `image/captioning` category.
-* **"Meklit's Calculator"** node under `tools` (or top-level) category.
+* **"Custom Calculator"** node under `tools` (or top-level) category.
 
 ---
 
